@@ -1,17 +1,27 @@
-import logo from './logo.svg';
+
 import './App.css';
 import React from 'react';
-import { ReactDOM } from 'react';
 
+import Home from './pages/Home';
+import Problem from './pages/Problem';
+import Solutions from './pages/Solutions';
+import Stats from './pages/Stats';
 
 import Navbar from './components/Navbar';
+import { Route, Routes } from 'react-router-dom';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <div className='navbar'>
         <Navbar />
-      </header>
+      </div>
+      <Routes>
+        <Route path='/' element={<Home />} />
+        <Route path='Problem' element={<Problem />} />
+        <Route path='Stats' element={<Stats />} />
+        <Route path='Solutions' element={<Solutions />} />
+      </Routes>
     </div>
   );
 }
