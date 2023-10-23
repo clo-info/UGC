@@ -3,18 +3,18 @@ import { Link } from 'react-router-dom';
 
 function Navbar(){
     return(
-        <div className='text-2xl'>
-            <div className='navbar_links'>
-                <Link to='/'>
+        <div className='text-3xl' id='NavStyle'>
+            <div className='font-sans "Segoe UI"'>
+                <Link className='px-10' to='/'>
                     Home
                 </Link>
-                <Link to='/Problem'>
+                <Link className='px-10' to='/Problem'>
                     Problem
                 </Link>
-                <Link to='/Stats'>
+                <Link className='px-10' to='/Stats'>
                     Stats
                 </Link>
-                <Link to='/Solutions'>
+                <Link className='px-10'to='/Solutions'>
                     Solutions
                 </Link>
             </div>
