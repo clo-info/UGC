@@ -8,8 +8,18 @@
 }
 
 body{
-  
+  background-color: black;
+  color: antiquewhite;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+#navbar_links{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+
 
 .App-logo {
   height: 40vmin;

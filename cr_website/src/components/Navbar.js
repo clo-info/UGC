@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 function Navbar(){
     return(
         <div className='text-3xl' id='NavStyle'>
-            <div className='font-sans "Segoe UI"'>
+            <div className='' id='navbar_links'>
                 <Link className='px-10' to='/'>
                     Home
                 </Link>
