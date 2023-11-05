@@ -1,25 +1,51 @@
 import React from 'react'
-
 import { Link } from 'react-router-dom';
 
 function Problem() {
     return (
-        <><div className='mx-40 py-24 text-left'>
-            <h1 className='text-3xl'>Problem Statement</h1>
-            <h2 className='text-xl'>A description of the problem</h2>
-            <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id diam vel quam elementum pulvinar etiam. Nunc sed id semper risus in hendrerit gravida rutrum quisque. Pellentesque habitant morbi tristique senectus et netus. Turpis egestas pretium aenean pharetra magna ac. Tristique senectus et netus et. Tortor at auctor urna nunc id cursus metus. Eget sit amet tellus cras adipiscing. Pharetra convallis posuere morbi leo urna molestie at elementum. Eu augue ut lectus arcu bibendum at. Amet aliquam id diam maecenas ultricies mi. Orci eu lobortis elementum nibh tellus molestie. Augue eget arcu dictum varius duis at consectetur lorem donec. Tortor consequat id porta nibh venenatis cras sed. Scelerisque eleifend donec pretium vulputate. Gravida neque convallis a cras semper auctor neque vitae tempus. Urna duis convallis convallis tellus id interdum velit laoreet id. Massa tempor nec feugiat nisl.
+        <div className='problemUni'>
+            <div className='problemBody'>
+                <h1 className=''>Problem Statement</h1>
+                <h2 className=''>A description of the problem</h2>
+                <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+                    Id diam vel quam elementum pulvinar etiam. Nunc sed id semper risus in hendrerit gravida rutrum quisque. Pellentesque habitant morbi 
+                    tristique senectus et netus. Turpis egestas pretium aenean pharetra magna ac. Tristique senectus et netus et. Tortor at auctor urna nunc id cursus metus. 
+                    Eget sit amet tellus cras adipiscing. Pharetra convallis posuere morbi leo urna molestie at elementum. Eu augue ut lectus arcu bibendum at. Amet aliquam id diam 
+                    maecenas ultricies mi. Orci eu lobortis elementum nibh tellus molestie. Augue eget arcu dictum varius duis at consectetur lorem donec. Tortor consequat id porta nibh 
+                    venenatis cras sed. Scelerisque eleifend donec pretium vulputate. Gravida neque convallis a cras semper auctor neque vitae tempus. Urna duis convallis convallis tellus 
+                    id interdum velit laoreet id. Massa tempor nec feugiat nisl.
 
-                Nisi lacus sed viverra tellus in hac. Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada nunc. Mauris sit amet massa vitae. Elementum nibh tellus molestie nunc. Molestie a iaculis at erat pellentesque adipiscing commodo elit. Amet consectetur adipiscing elit duis tristique sollicitudin nibh sit amet. Sit amet luctus venenatis lectus magna. Porttitor lacus luctus accumsan tortor posuere. Lobortis elementum nibh tellus molestie nunc non blandit. Ut diam quam nulla porttitor massa id neque aliquam vestibulum. Elementum curabitur vitae nunc sed velit dignissim sodales ut eu. Amet risus nullam eget felis eget nunc lobortis mattis. Magnis dis parturient montes nascetur ridiculus mus mauris. Velit euismod in pellentesque massa.
+                    Nisi lacus sed viverra tellus in hac. Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum. Nascetur ridiculus mus mauris vitae ultricies leo integer 
+                    malesuada nunc. Mauris sit amet massa vitae. Elementum nibh tellus molestie nunc. Molestie a iaculis at erat pellentesque adipiscing commodo elit. Amet consectetur adipiscing 
+                    elit duis tristique sollicitudin nibh sit amet. Sit amet luctus venenatis lectus magna. Porttitor lacus luctus accumsan tortor posuere. Lobortis elementum nibh tellus molestie 
+                    nunc non blandit. Ut diam quam nulla porttitor massa id neque aliquam vestibulum. Elementum curabitur vitae nunc sed velit dignissim sodales ut eu. Amet risus nullam eget felis 
+                    eget nunc lobortis mattis. Magnis dis parturient montes nascetur ridiculus mus mauris. Velit euismod in pellentesque massa.
 
-                Ultrices sagittis orci a scelerisque purus semper eget. Orci sagittis eu volutpat odio facilisis mauris sit amet. Proin nibh nisl condimentum id venenatis. Nec sagittis aliquam malesuada bibendum arcu vitae. In ante metus dictum at tempor commodo ullamcorper a lacus. Et odio pellentesque diam volutpat commodo sed egestas egestas fringilla. Non tellus orci ac auctor. Bibendum neque egestas congue quisque egestas. Faucibus vitae aliquet nec ullamcorper sit amet. Nunc sed id semper risus in hendrerit. Venenatis tellus in metus vulputate eu scelerisque felis imperdiet proin. Fermentum posuere urna nec tincidunt praesent semper feugiat nibh sed. Bibendum neque egestas congue quisque egestas diam. Nibh nisl condimentum id venenatis a condimentum vitae sapien pellentesque. Sed tempus urna et pharetra pharetra. Amet tellus cras adipiscing enim eu.
+                    Ultrices sagittis orci a scelerisque purus semper eget. Orci sagittis eu volutpat odio facilisis mauris sit amet. Proin nibh nisl condimentum id venenatis. Nec sagittis 
+                    aliquam malesuada bibendum arcu vitae. In ante metus dictum at tempor commodo ullamcorper a lacus. Et odio pellentesque diam volutpat commodo sed egestas egestas fringilla. 
+                    Non tellus orci ac auctor. Bibendum neque egestas congue quisque egestas. Faucibus vitae aliquet nec ullamcorper sit amet. Nunc sed id semper risus in hendrerit. Venenatis 
+                    tellus in metus vulputate eu scelerisque felis imperdiet proin. Fermentum posuere urna nec tincidunt praesent semper feugiat nibh sed. Bibendum neque egestas congue quisque e
+                    gestas diam. Nibh nisl condimentum id venenatis a condimentum vitae sapien pellentesque. Sed tempus urna et pharetra pharetra. Amet tellus cras adipiscing enim eu.
 
-                Suspendisse ultrices gravida dictum fusce. Aliquet lectus proin nibh nisl condimentum id venenatis. Ante in nibh mauris cursus mattis molestie a. Cursus mattis molestie a iaculis at. Adipiscing diam donec adipiscing tristique risus nec feugiat in. Rhoncus urna neque viverra justo nec ultrices dui. Volutpat est velit egestas dui id ornare. Eu mi bibendum neque egestas congue quisque egestas. Adipiscing tristique risus nec feugiat in. Turpis cursus in hac habitasse platea dictumst quisque. Eget dolor morbi non arcu risus quis. Amet purus gravida quis blandit turpis cursus. Enim eu turpis egestas pretium aenean pharetra magna. Vitae purus faucibus ornare suspendisse sed nisi lacus sed. Condimentum vitae sapien pellentesque habitant morbi tristique senectus et netus. Viverra tellus in hac habitasse. Sodales ut etiam sit amet nisl. Pharetra sit amet aliquam id diam maecenas ultricies mi eget. Nulla facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum. Sed turpis tincidunt id aliquet risus feugiat in ante.
+                    Suspendisse ultrices gravida dictum fusce. Aliquet lectus proin nibh nisl condimentum id venenatis. Ante in nibh mauris cursus mattis molestie a. Cursus mattis molestie a 
+                    iaculis at. Adipiscing diam donec adipiscing tristique risus nec feugiat in. Rhoncus urna neque viverra justo nec ultrices dui. Volutpat est velit egestas dui id ornare. Eu mi 
+                    bibendum neque egestas congue quisque egestas. Adipiscing tristique risus nec feugiat in. Turpis cursus in hac habitasse platea dictumst quisque. Eget dolor morbi non arcu risus 
+                    quis. Amet purus gravida quis blandit turpis cursus. Enim eu turpis egestas pretium aenean pharetra magna. Vitae purus faucibus ornare suspendisse sed nisi lacus sed. Condimentum 
+                    vitae sapien pellentesque habitant morbi tristique senectus et netus. Viverra tellus in hac habitasse. Sodales ut etiam sit amet nisl. Pharetra sit amet aliquam id diam maecenas 
+                    ultricies mi eget. Nulla facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum. Sed turpis tincidunt id aliquet risus feugiat in ante.
 
-                Tristique senectus et netus et malesuada fames ac turpis egestas. Adipiscing commodo elit at imperdiet dui accumsan. Nisl condimentum id venenatis a condimentum vitae sapien. Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi tristique. Eget gravida cum sociis natoque penatibus et magnis. Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. Risus commodo viverra maecenas accumsan. Pulvinar sapien et ligula ullamcorper malesuada proin libero. Lectus nulla at volutpat diam ut venenatis tellus in. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. Enim nunc faucibus a pellentesque. Tristique senectus et netus et malesuada fames ac turpis egestas.</h3>
-        </div><div id='button_section' className='border-5 border-red-900 border-solid text-4xl'>
-                <button className='bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded'>
-                    <Link to="/Stats">Button to proceed to the Statistics Page</Link></button>
-            </div></>
+                    Tristique senectus et netus et malesuada fames ac turpis egestas. Adipiscing commodo elit at imperdiet dui accumsan. Nisl condimentum id venenatis a 
+                    condimentum vitae sapien. Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi tristique. Eget gravida cum sociis natoque penatibus et magnis. 
+                    Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. Risus commodo viverra maecenas accumsan. Pulvinar sapien et ligula ullamcorper malesuada proin libero.
+                     Lectus nulla at volutpat diam ut venenatis tellus in. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. 
+                     Enim nunc faucibus a pellentesque. Tristique senectus et netus et malesuada fames ac turpis egestas.
+                </h3>
+            </div>
+            <div id='button_section' className='border-5 border-red-900 border-solid text-4xl'>
+                    <button className='bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded'>
+                        <Link to="/Stats">Button to proceed to the Statistics Page</Link></button>
+            </div>
+        </div>
     )
 }
 

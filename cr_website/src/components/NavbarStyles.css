@@ -1,0 +1,51 @@
+.logoContainer{
+    display: flex;
+    position: relative;
+}
+.logoContainer svg{
+    padding: 0px;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(30,30,30);
+    color: whitesmoke;
+    font-family: 'Lucida Sans', Arial, sans-serif;
+    padding: 15px 20px;
+}
+#linkList{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#linkList li{
+    list-style: none;
+    padding: 0 20px;
+    position: relative;
+}
+
+.navbarLinks {
+    text-decoration: none;
+    font-size: 1.3rem;
+    font-weight: 600;
+    transition: 0.7s ease-in-out;
+}
+.navbarLinks ul li:hover{
+    color: rgb(88, 55, 235);
+}
+.navbarLinks ul li:hover::after{
+    content: "    ";
+    width: 30%;
+    height: 4px;
+    background: rgb(88, 55, 235);
+    position: absolute;
+    bottom: -4px;
+    left: 20px;
+}
+
+#mobile i{
+    color: whitesmoke;
+}
