@@ -13,7 +13,10 @@ nav{
     background-color: rgb(30,30,30);
     color: whitesmoke;
     font-family: 'Lucida Sans', Arial, sans-serif;
-    padding: 15px 20px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    padding: 20px 30px;
 }
 #linkList{
     display: flex;

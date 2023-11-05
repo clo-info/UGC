@@ -21,7 +21,7 @@
   /* background-blend-mode: color-dodge; */
 }
 
-@media (min-width: 1500px){
+@media (min-width: 1000px){
   .hero{
     background-image: url("./components/pictures/crowd2.jpeg")
   }

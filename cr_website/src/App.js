@@ -9,6 +9,7 @@ import Stats from './pages/Stats';
 
 import Navbar from './components/Navbar';
 import { Route, Routes } from 'react-router-dom';
+import DonationSuite from './pages/DonationSuite';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         <Route path='Problem' element={<Problem />} />
         <Route path='Stats' element={<Stats />} />
         <Route path='Solutions' element={<Solutions />} />
+        <Route path='Donations' elements={<DonationSuite />} />
       </Routes>
     </div>
   );

@@ -23,6 +23,7 @@ function Navbar(){
                     <li><Link className='' to='/Problem'>Problem</Link></li>
                     <li><Link className='' to='/Stats'>Stats</Link></li>
                     <li><Link className=''to='/Solutions'>Solutions</Link></li>
+                    <li><Link className='' to='/Donations'>Donations</Link></li>
                 </ul>
             </div>
 

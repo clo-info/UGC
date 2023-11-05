@@ -1,5 +1,7 @@
 import React from 'react'
 
+import drought from '../components/pictures/drought.png';
+
 function Home() {
     return (
         <div className='homeContainer'>
@@ -17,7 +19,7 @@ function Home() {
                         dignissim suspendisse in est ante in. Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec. Tempor id eu nisl nunc mi <br></br>
                         ipsum faucibus vitae. Netus et malesuada fames ac turpis egestas sed tempus.<br></br><br></br>
 
-                        <img src='drought.png'></img>
+                        <img src={drought} alt='boy standing on riverbed'></img><br></br>
 
                         Amet est placerat in egestas erat imperdiet sed euismod. Porttitor rhoncus dolor purus non enim praesent elementum. Tincidunt lobortis feugiat <br></br>
                         vivamus at augue eget arcu dictum varius. In metus vulputate eu scelerisque. Feugiat vivamus at augue eget arcu dictum varius. Nulla pellentesque <br></br>
