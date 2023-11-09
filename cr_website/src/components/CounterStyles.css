@@ -1,0 +1,10 @@
+.refugee_number{
+    font-size: 39px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(105, 105, 253);
+    font-weight: 900;
+    text-shadow: 10px 10px 10px rgb(43, 43, 43);
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(92, 92, 255);
+
+}

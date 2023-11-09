@@ -1,7 +1,8 @@
 .App{
-  background: linear-gradient(rgb(39,39,39), rgb(0,0,0));
+  background: linear-gradient(rgb(38,38,38), rgb(0,0,0));
   color: whitesmoke;
   padding-bottom: 500px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
 /* home page */
@@ -46,3 +47,44 @@
   text-align: left;
   font-size: 1.0rem;
 } 
+
+/* problem page */
+.problemHero{
+  background-color: rgb(39,39,39);
+  background-image: url("./components/pictures/refugeeGreece.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  opacity: 0.9;
+}
+
+.problemBody{
+  padding-top: 100px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.problemTitle{
+  font-size: 30px;
+  font-weight: 900;
+  color: rgb(105, 105, 253);
+}
+.problemSubtitle{
+  font-size: 25px;
+  font-weight: 300;
+  color: rgb(87, 87, 252);
+}
+.problemPara{
+  display: grid;
+  font-size: 20px;
+  font-weight: lighter;
+}
+.ncbiLink{
+  font-size: 20px;
+  font-style: oblique;
+  color: rgb(105, 105, 253);
+  text-decoration: underline;
+}
