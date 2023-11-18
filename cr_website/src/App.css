@@ -176,8 +176,12 @@
   padding-top: 140px;
   font-size: 35px;
 }
+.Solution{
+  padding-top: 100px;
+}
 .SolutionTitle{
-  font-size: 25px;
+  font-size: 30px;
+  color: rgb(88, 55, 235);font-style: oblique;
 }
 .SolutionBody{
   font-size: 20px;
