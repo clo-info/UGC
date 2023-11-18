@@ -3,7 +3,7 @@ import React from "react";
 function References(){
     return(
         <div className='mt-300'>
-            <h1>References</h1><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
+            <h1 className="mt-300">References</h1>
             <h1>
             Kanta Kumari Rigaud, Alex de Sherbinin, Bryan Jones, Jonas Bergmann, 
             Viviane Clement, Kayly Ober, Jacob Schewe, Susana Adamo, Brent McCusker, Silke Heuser, and Amelia Midgley. (n.d.). 
@@ -16,8 +16,11 @@ function References(){
             <h1>
             United Nations Office for the Coordination of Humanitarian Affairs. Global Humanitarian Overview 2023. 2023. Available: https://humanitarianaction.info/gho2023.
             </h1>
+            <h1>
+                The Economist. Climate change is likely to increase migration. 2022. Available: https://www.economist.com/the-world-ahead/2022/11/18/climate-change-is-likely-to-increase-migration.
+            </h1>
         </div>
-    );
-};
+    )
+}
 
 export default References;

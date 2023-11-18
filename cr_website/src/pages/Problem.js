@@ -16,24 +16,19 @@ function Problem() {
                     100 million. Weather related disasters although they usually only represent temporary dispacement 
                     have been repeatedly cited as a major cause of these displacements.<br></br><br></br>
 
-                    Nisi lacus sed viverra tellus in hac. Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum. Nascetur ridiculus mus mauris vitae ultricies leo integer 
-                    malesuada nunc. Mauris sit amet massa vitae. Elementum nibh tellus molestie nunc. Molestie a iaculis at erat pellentesque adipiscing commodo elit. Amet consectetur adipiscing 
-                    elit duis tristique sollicitudin nibh sit amet. Sit amet luctus venenatis lectus magna. Porttitor lacus luctus accumsan tortor posuere. Lobortis elementum nibh tellus molestie 
-                    nunc non blandit. Ut diam quam nulla porttitor massa id neque aliquam vestibulum. Elementum curabitur vitae nunc sed velit dignissim sodales ut eu. Amet risus nullam eget felis 
-                    eget nunc lobortis mattis. Magnis dis parturient montes nascetur ridiculus mus mauris. Velit euismod in pellentesque massa. <br></br><br></br>
+                    Climate refugees are often forgotten in the scope of foreign and international aid talks. This 
+                    is for a few reasons. Firstly there is a serious lack of informations around
+                    the threat of their situation to begin with. Additionally they are at a disadvantage on the global stage 
+                    because the vast majority of people who are susceptible to flooding, for example, live in small, developing
+                    island nations. Bangladesh is an example of a country that is at a vastly increased risk, but changing climate is having effects
+                    worldwide. <br></br><br></br>
 
-                    Ultrices sagittis orci a scelerisque purus semper eget. Orci sagittis eu volutpat odio facilisis mauris sit amet. Proin nibh nisl condimentum id venenatis. Nec sagittis 
-                    aliquam malesuada bibendum arcu vitae. In ante metus dictum at tempor commodo ullamcorper a lacus. Et odio pellentesque diam volutpat commodo sed egestas egestas fringilla. 
-                    Non tellus orci ac auctor. Bibendum neque egestas congue quisque egestas. Faucibus vitae aliquet nec ullamcorper sit amet. Nunc sed id semper risus in hendrerit. Venenatis 
-                    tellus in metus vulputate eu scelerisque felis imperdiet proin. Fermentum posuere urna nec tincidunt praesent semper feugiat nibh sed. Bibendum neque egestas congue quisque e
-                    gestas diam. Nibh nisl condimentum id venenatis a condimentum vitae sapien pellentesque. Sed tempus urna et pharetra pharetra. Amet tellus cras adipiscing enim eu. <br></br><br></br>
+                    Though the term 'climate refugee' is often used in by experts and even in the context of UN conferences. 
+                    Considering this acknowledgement of the displaced people's similarity to politcial refugees, it is strange 
+                    that they are still typically unable to claim asylum based solely on this status. This means that very little of the 21 million annual displacements
+                    due to climate since 2008 have seen any sort of help or aid or refuge.<br></br><br></br>
 
-                    Suspendisse ultrices gravida dictum fusce. Aliquet lectus proin nibh nisl condimentum id venenatis. Ante in nibh mauris cursus mattis molestie a. Cursus mattis molestie a 
-                    iaculis at. Adipiscing diam donec adipiscing tristique risus nec feugiat in. Rhoncus urna neque viverra justo nec ultrices dui. Volutpat est velit egestas dui id ornare. Eu mi 
-                    bibendum neque egestas congue quisque egestas. Adipiscing tristique risus nec feugiat in. Turpis cursus in hac habitasse platea dictumst quisque. Eget dolor morbi non arcu risus 
-                    quis. Amet purus gravida quis blandit turpis cursus. Enim eu turpis egestas pretium aenean pharetra magna. Vitae purus faucibus ornare suspendisse sed nisi lacus sed. Condimentum 
-                    vitae sapien pellentesque habitant morbi tristique senectus et netus. Viverra tellus in hac habitasse. Sodales ut etiam sit amet nisl. Pharetra sit amet aliquam id diam maecenas 
-                    ultricies mi eget. Nulla facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum. Sed turpis tincidunt id aliquet risus feugiat in ante. <br></br><br></br>
+                    As of December 31st of <br></br><br></br>
 
                     Tristique senectus et netus et malesuada fames ac turpis egestas. Adipiscing commodo elit at imperdiet dui accumsan. Nisl condimentum id venenatis a 
                     condimentum vitae sapien. Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi tristique. Eget gravida cum sociis natoque penatibus et magnis. 

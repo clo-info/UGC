@@ -23,21 +23,23 @@ function Stats() {
         
                 <div className='lighterFacts'>
                     <h1>Some Other Quick Facts:</h1><br></br>
-                    <h2 className='statsNumber'>
-                        17%
-                    </h2>
-                    <h3>
-                     &nbsp; of Bangladesh is expected to be under water by 2050, resulting in 20 million more displacements.<br></br>
-                     That's an area the size of Georgia, and a population the size of Florida's.
-                    </h3>
-                    <h2 className='statsNumber'>
-                        32.6
-                    </h2>  
-                    <h3>
-                        million people have been displaced in 2022 alone. 
-                    </h3> 
-                    <h2 className='statsNumber'>53%</h2>
-                    <h3> the proportion of internal displacements thought to be caused by climate change impacted disasters</h3>
+                    <div className='stat'>
+                        <h2 className='statsNumber'>17%</h2>
+                        <h3>
+                        &nbsp; of Bangladesh is expected to be under water by 2050, resulting in 20 million more displacements.<br></br>
+                        That's an area the size of Georgia, and a population the size of Florida's.
+                        </h3>
+                    </div>
+                    <div className='stat'>
+                        <h2 className='statsNumber'>32.6</h2>  
+                        <h3>
+                            million people have been displaced in 2022 alone. 
+                        </h3> 
+                    </div>
+                    <div className='stat'>
+                        <h2 className='statsNumber'>53%</h2>
+                        <h3> the proportion of internal displacements thought to be caused by climate change impacted disasters</h3>
+                    </div>
                 </div>
             </>
             /* 17% of Bangladesh will be under water by 2050 and 20 million more will lose their homes */
