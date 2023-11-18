@@ -1,5 +1,5 @@
 import React from 'react'
-import Counter from '../components/Counter';
+import Counter from '../components/ProblemCounter';
 
 function Problem() {
     return (
@@ -8,16 +8,13 @@ function Problem() {
                 <Counter />
             </div>
             <div className='problemBody'>
-                <h1 className='problemTitle'>Problem Statement</h1><br></br>
+                <h1 className='problemTitle'>The Current State of the Crisis</h1><br></br>
                 <h2 className='problemSubtitle'>A Generation of People Displaced</h2>
                 <h3 className='problemPara'>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-                    Id diam vel quam elementum pulvinar etiam. Nunc sed id semper risus in hendrerit gravida rutrum quisque. Pellentesque habitant morbi 
-                    tristique senectus et netus. Turpis egestas pretium aenean pharetra magna ac. Tristique senectus et netus et. Tortor at auctor urna nunc id cursus metus. 
-                    Eget sit amet tellus cras adipiscing. Pharetra convallis posuere morbi leo urna molestie at elementum. Eu augue ut lectus arcu bibendum at. Amet aliquam id diam 
-                    maecenas ultricies mi. Orci eu lobortis elementum nibh tellus molestie. Augue eget arcu dictum varius duis at consectetur lorem donec. Tortor consequat id porta nibh 
-                    venenatis cras sed. Scelerisque eleifend donec pretium vulputate. Gravida neque convallis a cras semper auctor neque vitae tempus. Urna duis convallis convallis tellus 
-                    id interdum velit laoreet id. Massa tempor nec feugiat nisl. <br></br><br></br>
+                    Climate change is considered by many sources to be one of the most present and existential threats
+                    facing the species. In June of 2022 the number of displaced people worldwide reached a peak of over
+                    100 million. Weather related disasters although they usually only represent temporary dispacement 
+                    have been repeatedly cited as a major cause of these displacements.<br></br><br></br>
 
                     Nisi lacus sed viverra tellus in hac. Eu turpis egestas pretium aenean pharetra magna ac placerat vestibulum. Nascetur ridiculus mus mauris vitae ultricies leo integer 
                     malesuada nunc. Mauris sit amet massa vitae. Elementum nibh tellus molestie nunc. Molestie a iaculis at erat pellentesque adipiscing commodo elit. Amet consectetur adipiscing 
@@ -44,13 +41,13 @@ function Problem() {
                      Lectus nulla at volutpat diam ut venenatis tellus in. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. 
                      Enim nunc faucibus a pellentesque. Tristique senectus et netus et malesuada fames ac turpis egestas. <br></br><br></br>
                 </h3>
-                <h4 className='problemsReferences'>
+                {/* <h4 className='problemsReferences'>
                     References<br></br><br></br>
 
                     <a className='ncbiLink' href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10037158/#:~:text=Although%20they%20are%20temporary%2C%20weather,2008%20%5B3%2C4%5D.'>
                         Global health, climate change and migration: The need for recognition of “climate refugees”
                     </a>
-                </h4>
+                </h4> */}
             </div>
         </div>
     )

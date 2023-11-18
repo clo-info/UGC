@@ -17,6 +17,8 @@
   background-repeat: no-repeat;
   padding-top: 200px;
   padding-bottom: 200px;
+   -webkit-mask-image: -webkit-gradient(linear, left top, left bottom, 
+    from(rgba(0,0,0,4)), to(rgba(0,0,0,0)));
   /* min-height: 600px; */
   /* box-shadow: 00px 0px 90px 30px rgba(30,30,30, 1.0) inset; */
   /* background-blend-mode: color-dodge; */
@@ -47,11 +49,20 @@
   text-align: left;
   font-size: 1.0rem;
 } 
+.homeSubstance h3{
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 25px;
+  border: white;
+  border-style: groove;
+  padding-bottom: 25px;
+  box-shadow: 10px 0px 50px 2px rgb(146, 104, 243);
+}
 
 /* problem page */
 .problemHero{
   background-color: rgb(39,39,39);
-  background-image: url("./components/pictures/refugeeGreece.jpg");
+  background-image: url("./components/pictures/refugeeGreece2.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   padding-top: 100px;
@@ -62,10 +73,16 @@
   opacity: 0.9;
 }
 
-.problemBody{
-  padding-top: 100px;
+.problemBody {
+  margin-top: 10%;
   margin-left: 20%;
   margin-right: 20%;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 25px;
+  border: white;
+  border-style: groove;
+  box-shadow: 10px 0px 50px 2px rgb(146, 104, 243);
 }
 .problemTitle{
   font-size: 30px;
@@ -87,4 +104,81 @@
   font-style: oblique;
   color: rgb(105, 105, 253);
   text-decoration: underline;
+}
+
+/* stats page */
+.counters{
+  text-align: center;
+}
+.statsBlock1{
+  background-image: url('./components/pictures/LARefugees.png');
+  padding-top: 210px;
+  padding-bottom: 100px;
+  align-items: center;
+  background-repeat: no-repeat;
+  -webkit-mask-image: -webkit-gradient(linear, right bottom, right top, 
+    from(rgba(10,10,10,5)), to(rgba(0,0,0,0)));
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.statsBlock2{
+  background-image: url('./components/pictures/3000.jpeg');
+  padding-top: 100px;
+  padding-bottom: 100px;
+  align-items: center;
+  background-repeat: no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.statsBlock3{
+  background-image: url('./components/pictures/12migrant.jpg');
+  padding-top: 100px;
+  padding-bottom: 210px;
+  align-items: center;
+  background-repeat: no-repeat;
+  -webkit-mask-image: -webkit-gradient(linear, left top, left bottom, 
+    from(rgba(5,5,5,5)), to(rgba(0,0,0,0)));
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.lighterFacts{
+  padding-top: 200px;
+  font-size: 25px;
+  text-align: center;
+  font-weight: 200;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 55px;
+}
+
+.statsNumber{
+  padding-top: 100px;
+  color: rgb(92, 92, 255);
+  font-size: 45px;
+}
+
+/* Solutions */
+.SolutionsPage{
+  text-align: center;
+  margin-left: auto;
+}
+.SolutionPreamble{
+  padding-top: 140px;
+  font-size: 35px;
+}
+.SolutionTitle{
+  font-size: 25px;
+}
+.SolutionBody{
+  font-size: 20px;
 }

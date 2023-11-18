@@ -24,6 +24,7 @@ function Navbar(){
                     <li><Link className='' to='/Stats'>Stats</Link></li>
                     <li><Link className=''to='/Solutions'>Solutions</Link></li>
                     <li><Link className='' to='/Donations'>Donations</Link></li>
+                    <li><Link className='' to='/References'>References</Link></li>
                 </ul>
             </div>
 

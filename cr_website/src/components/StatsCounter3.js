@@ -5,7 +5,7 @@ import "./CounterStyles.css";
 
 
 
-const Counter = () =>{
+const StatsCounter3 = () =>{
     const onComplete = () => {
         console.log('Completed!');
       };
@@ -18,19 +18,19 @@ const Counter = () =>{
         <CountUp
           className="refugee_number"
           start={0}
-          end={100000000}
-          duration={4}
+          end={86}
+          duration={10}
           useEasing={true}
           useGrouping={true}
           separator=","
           decimals={0}
           decimal=","
-          prefix="Refugees "
-          suffix=" Since 2008"
+          prefix=" "
+          suffix=" Million Refugees in Sub-Saharan Africa..."
           onComplete={onComplete}
           onStart={onStart}
         />
       );
 }
 
-export default Counter; 
+export default StatsCounter3;
