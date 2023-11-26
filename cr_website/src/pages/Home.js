@@ -33,6 +33,41 @@ function Home() {
                         refugees are driven by the tangible and inexorable impact of a changing climate.<br></br>
                     </h3>
             </div>
+            
+            <div className='ReferenceSuite'>
+            <h3 className='referencesTitle'> Current References</h3>
+                <div className='reference'>
+                    <h1 className='referenceTitle'>Groundswell: Preparing for Internal Climate Migration. Climate Change and Law Collection.</h1>
+                    <h2 className='referenceBody'>
+                        Kanta Kumari Rigaud, Alex de Sherbinin, Bryan Jones, Jonas Bergmann,<br></br> 
+                        Viviane Clement, Kayly Ober, Jacob Schewe, Susana Adamo, Brent McCusker, <br></br>
+                        Silke Heuser, and Amelia Midgley. (n.d.). Groundswell: Preparing for Internal <br></br>
+                        Climate Migration. Climate Change and Law Collection. https://doi.org/10.1163/9789004322714_cclc_2021-0026-163
+                    </h2>
+                </div>
+                <div className='reference'>
+                    <h1 className='referenceTitle'>Climate Change, Emerging Infections and Blood Donations.</h1>
+                    <h2 className='referenceBody'>
+                        Cegolon L, Heymann WC, Lange JH.Climate change, emerging infections and blood donations. 
+                        J Travel Med. 2017;24. 10.1093/jtm/taw098
+                    </h2>
+                </div>
+                <div className='reference'>
+                    <h1 className='referenceTitle'>Global Humanitarian Overview 2023.</h1>
+                    <h2 className='referenceBody'>
+                        United Nations Office for the Coordination of Humanitarian Affairs. 
+                        Global Humanitarian Overview 2023. 2023. Available: https://humanitarianaction.info/gho2023.
+                    </h2>
+                </div>
+                <div className='reference'>
+                    <h1 className='referenceTitle'>Climate Change is Likely to Increase Migration.</h1>
+                    <h2 className='referenceBody'>
+                    The Economist. Climate change is likely to increase migration. 2022. Available: <br></br>
+                    https://www.economist.com/the-world-ahead/2022/11/18/climate-change-is-likely-to-increase-migration.
+                    </h2>
+                </div>
+                
+            </div>
         </div>
     );
   }

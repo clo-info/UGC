@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 
 import "./NavbarStyles.css";
 
+
 function Navbar(){
     
     // state={ clicked: false };
@@ -22,9 +23,10 @@ function Navbar(){
                 <ul id='linkList'>
                     <li><Link className='' to='/Problem'>Problem</Link></li>
                     <li><Link className='' to='/Stats'>Stats</Link></li>
-                    <li><Link className=''to='/Solutions'>Solutions</Link></li>
+                    <li><Link className='' to='/Solutions'>Solutions</Link></li>
                     <li><Link className='' to='/Donations'>Donations</Link></li>
-                    <li><Link className='' to='/References'>References</Link></li>
+                    {/* <li><Link className='' to='/Donations'>Donations</Link></li>
+                    <li><Link className='' to='/References'>References</Link></li> */}
                 </ul>
             </div>
 

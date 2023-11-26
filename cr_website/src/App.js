@@ -6,8 +6,7 @@ import Home from './pages/Home';
 import Problem from './pages/Problem';
 import Solutions from './pages/Solutions';
 import Stats from './pages/Stats';
-import DonationSuite from './pages/DonationSuite';
-import References from './pages/References';
+import Donations from './pages/Donations';
 
 import Navbar from './components/Navbar';
 import { Route, Routes } from 'react-router-dom';
@@ -24,8 +23,7 @@ function App() {
         <Route path='Problem' element={<Problem />} />
         <Route path='Stats' element={<Stats />} />
         <Route path='Solutions' element={<Solutions />} />
-        <Route path='Donations' elements={<DonationSuite />} />
-        <Route path='References' elements={<References />} />
+        <Route path='Donations' element={<Donations />} />
       </Routes>
     </div>
   );
