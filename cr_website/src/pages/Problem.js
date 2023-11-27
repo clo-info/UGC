@@ -28,21 +28,16 @@ function Problem() {
                     that they are still typically unable to claim asylum based solely on this status. This means that very little of the 21 million annual displacements
                     due to climate since 2008 have seen any sort of help or aid or refuge.<br></br><br></br>
 
-                    As of December 31st of <br></br><br></br>
-
-                    Tristique senectus et netus et malesuada fames ac turpis egestas. Adipiscing commodo elit at imperdiet dui accumsan. Nisl condimentum id venenatis a 
-                    condimentum vitae sapien. Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi tristique. Eget gravida cum sociis natoque penatibus et magnis. 
-                    Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. Risus commodo viverra maecenas accumsan. Pulvinar sapien et ligula ullamcorper malesuada proin libero.
-                     Lectus nulla at volutpat diam ut venenatis tellus in. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. 
-                     Enim nunc faucibus a pellentesque. Tristique senectus et netus et malesuada fames ac turpis egestas. <br></br><br></br>
+                    At this point, the fact that aid to these people has been few and far between seems to mostly stem from a lack of will.
+                    Most everyone, organizations, indivdiuals, corporations, governments, all agree that the root cause of climate refugees' suffering,
+                    climate change, is real. Less but still many agree on how to solve it even. The only real point of contention here seems to be 
+                    whether or not we should assign these people the official status of refugees.<br></br><br></br> 
+                    
+                    Both sides have their points. The pro side seems to think that the conditions and realities of these groups are incredibly comparable
+                    to political refugees, which is hard to deny. The anti side seems to think that the change in status for an extra 100-300 million people 
+                    will denegrate the status of the term 'refugee'. In brief, the broadening of definition will make it harder to secure aid for all 
+                    refugees both climatic and political.<br></br><br></br><br></br><br></br>
                 </h3>
-                {/* <h4 className='problemsReferences'>
-                    References<br></br><br></br>
-
-                    <a className='ncbiLink' href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10037158/#:~:text=Although%20they%20are%20temporary%2C%20weather,2008%20%5B3%2C4%5D.'>
-                        Global health, climate change and migration: The need for recognition of “climate refugees”
-                    </a>
-                </h4> */}
             </div>
         </div>
     )
