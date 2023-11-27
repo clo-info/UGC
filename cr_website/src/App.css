@@ -24,12 +24,6 @@
   /* background-blend-mode: color-dodge; */
 }
 
-@media (min-width: 1000px){
-  .hero{
-    background-image: url("./components/pictures/crowd2.jpeg")
-  }
-}
-
 .homeArrow{
   text-align: center;
   
@@ -48,7 +42,8 @@
   margin-right: 20%;
   text-align: left;
   font-size: 22px;
-} 
+}
+
 .homeSubstance h3{
   padding-left: 50px;
   padding-right: 50px;
@@ -87,6 +82,16 @@
 }
 .referenceBody{
   text-align: left;
+}
+
+@media (min-width: 800px){
+  .hero{
+    background-image: url("./components/pictures/crowd2.jpeg")
+  }
+  .homeSubstance{
+    margin: 5%;
+    font-size: 6px;
+  }
 }
 /*  */
 

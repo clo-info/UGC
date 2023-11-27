@@ -11,7 +11,7 @@ function Problem() {
                 <h1 className='problemTitle'>The Current State of the Crisis</h1><br></br>
                 <h2 className='problemSubtitle'>A Generation of People Displaced</h2>
                 <h3 className='problemPara'>
-                    Climate change is considered by many sources to be one of the most present and existential threats.
+                    Climate change is considered by many sources to be one of the most present and existential threats
                     facing the species. In June 2022, the number of displaced people worldwide reached a peak of over
                     100 million. Weather-related disasters, although they usually only represent temporary displacement,
                     have been repeatedly cited as a major cause of these displacements.<br></br><br></br>

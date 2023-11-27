@@ -10,7 +10,7 @@ function Home() {
                     <h2 className='substanceTitle'> The Climate Refugee Crisis </h2>
                     <h3> 
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For a long time, the actual issues of climate change have
-                        always been spoken of in the future tense. Sea lives 'will' rise. There 'will' be this many species going extinct.
+                        been spoken of in the future tense. Sea levels 'will' rise. There 'will' be this many species going extinct
                         by this far off year. The forest 'will' be this much smaller within the next five years. All of these things come,
                         I think, from a justified fear of the outcomes that climate change has been predicted to have. That being said, it is a lie.
                         The real consequences of climate change have, in reality, already come home to roost. The issue of climate displacement or refugees
