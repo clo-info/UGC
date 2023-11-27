@@ -41,7 +41,7 @@
   margin-left: 20%;
   margin-right: 20%;
   text-align: left;
-  font-size: 22px;
+  font-size: 25px;
 }
 
 .homeSubstance h3{
@@ -84,13 +84,9 @@
   text-align: left;
 }
 
-@media (min-width: 800px){
+@media (min-width: 1200px){
   .hero{
     background-image: url("./components/pictures/crowd2.jpeg")
-  }
-  .homeSubstance{
-    margin: 5%;
-    font-size: 6px;
   }
 }
 /*  */
