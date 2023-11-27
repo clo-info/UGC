@@ -9,24 +9,24 @@ function Home() {
                     <h1 className='homeArrow'> ▼ </h1>
                     <h2 className='substanceTitle'> The Climate Refugee Crisis </h2>
                     <h3> 
-                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For a long time the actually issues of climate change have 
-                        always been spoken of in the future tense. Sea lives 'will' rise. There 'will' be this many species extinct
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For a long time, the actual issues of climate change have
+                        always been spoken of in the future tense. Sea lives 'will' rise. There 'will' be this many species going extinct.
                         by this far off year. The forest 'will' be this much smaller within the next five years. All of these things come,
                         I think, from a justified fear of the outcomes that climate change has been predicted to have. That being said, it is a lie.
                         The real consequences of climate change have, in reality, already come home to roost. The issue of climate displacement or refugees
-                        is not a prospective issue, it is happening. Already more than a hundred million have been forced to relocate.<br></br><br></br>
+                        is not a prospective issue, it is happening. Already, more than a hundred million people have been forced to relocate.<br></br><br></br>
 
 
-                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The country of Bangladesh is currently sinking under water, disasters are common and 
-                        more land is disappearing every year along with lives as unexpected flooding swallows whole communities. This along with many other current worsening 
-                        issues like droughts and tornadoes are real climatic consequences of climate change that have forced people to move. Millions are already at the mercy of a change and intensifying climate
-                        which, through no fault of their own, will force them out of wherever they call home. For years now almost nothing, apart from charity has been done to address the plight of
-                        these people. Not even administratively, for while they will be referred to as climate refugees by everybody, they are not, in an official sense, refugees. 
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The country of Bangladesh is currently sinking under water; disasters are common and
+                        More land is disappearing every year, along with lives, as unexpected flooding swallows whole communities. This, along with many other current problems, is worsening.
+                        Issues like droughts and tornadoes are real climatic consequences of climate change that have forced people to move. Millions are already at the mercy of a changing and intensifying climate.
+                        which, through no fault of their own, will force them out of wherever they call home. For years now, almost nothing, apart from charity, has been done to address the plight of
+                        these people. Not even administratively, for while they will be referred to as climate refugees by everybody, they are not, in an official sense, refugees.
                         <br></br><br></br>  
 
                         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At the heart of this issue seems to be denial. A denial of status, and what has caused this
-                        status to be. But also a denial of the wider issue as a whole. It seems like society is alergic to addressing not just the main cause of this
-                        oncoming and actively happening catastrophe but the fact that it is actively happening at all. Let's examine this problem more closely.<br></br>
+                        status to be. But also a denial of the wider issue as a whole. It seems like society is allergic to addressing more than just the main cause of this.
+                        oncoming and actively happening catastrophe, but the fact that it is actively happening at all. Let's examine this problem more closely.<br></br>
                     </h3>
             </div>
             
